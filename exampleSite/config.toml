@@ -35,7 +35,7 @@ contact_info = "1 Science Square <br> Newcastle upon Tyne, <br>NE4 5TG"
 description = "This website is modified by Milad Kazemi based on omega-hugo template"
 logo = ""
 logo_width = "120px"
-preloader = true
+preloader = false
 [params.cookies]
 enable = true
 expire_days = 2
