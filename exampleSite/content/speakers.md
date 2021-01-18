@@ -94,4 +94,3 @@ career:
     Affiliation: ''
 
 ---
-![bshdvbsjcdkjnksv](/images/product/product-03.jpg "Milad")
