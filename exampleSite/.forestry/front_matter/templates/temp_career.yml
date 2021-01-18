@@ -25,9 +25,14 @@ fields:
   - type: text
     name: content
     label: content
+    showOnly:
+      field: enable
   - name: image
     type: image_gallery
     config: {}
     label: Image
+    showOnly:
+      field: enable
+      value: true
 pages:
 - exampleSite/content/career.md
