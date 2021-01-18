@@ -8,9 +8,6 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: textarea
-  name: description
-  label: description
 - type: field_group
   name: career
   label: career
@@ -29,14 +26,11 @@ fields:
       name: name
       label: name
     - type: text
-      name: location
+      name: Affiliation
       label: location
     - type: textarea
       name: about
       label: about
-    - type: list
-      name: experiences
-      label: experiences
     hidden: false
 pages:
 - exampleSite/content/career.md
