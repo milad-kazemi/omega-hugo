@@ -19,11 +19,11 @@ form_action = "#"
 location = "School of Computing, Newcastle University, UK"
 name = "Sergiy Bogomolov (General Chair)"
 [[career.job_item]]
-about = "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
-experiences = ["3+ years Development\texperience in a startup environment", "Strong knowledge of iOS, Android & Web Platforms", "Dynamic presentation and communication skills", "Self-motivation: You manage your own milestones, deadlines, and priorities"]
+about = "Michael Fisher is a Professor of Computer Science and holds a Royal Academy of Engineering Chair in Emerging Technology. He is Fellow of both\nthe BCS and IET, co-chairs the IEEE Technical Committee on the Verification of Autonomous Systems, and is a member of both the IEEE P7009\nStandards committee on Fail-Safe Design of Autonomous Systems and the BSI AMT/10 committee on Robotics and Robot Ethics.\n"
+experiences = []
 form_action = "#"
-location = "Hamburg, Germany"
-name = "DevOps Engineer"
+location = "Department of Computer Science, University of Manchester, UK"
+name = "Michael Fisher"
 [[career.job_item]]
 about = "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
 experiences = ["3+ years Development\texperience in a startup environment", "Strong knowledge of iOS, Android & Web Platforms", "Dynamic presentation and communication skills", "Self-motivation: You manage your own milestones, deadlines, and priorities"]
