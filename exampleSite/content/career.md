@@ -19,8 +19,8 @@ funfacts:
   enable: true
   title: amenities for you to enjoy
   funfacts_item:
-  - name: images/gallery/gallery-02.png
-    image: fa-bicycle
+  - name: Milad
+    image: images/gallery/gallery-02.png
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
   - name: Free Snacks
