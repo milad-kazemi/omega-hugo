@@ -1,12 +1,11 @@
 ---
 banner:
   enable: true
-  title: Advancement is Omega
-  content: Solving the problems of today to see a tomorrow worth living and a past
-    worth remembering.
+  title: Verification of Autonomous & Robotic Systems (VARS)
+  content: 2021 CPS-IoT Week Workshop
   image: images/hero-image/hero-slider-01.jpg
   button:
-    enable: true
+    enable: false
     label: WHAT WE DO
     link: "#products"
 mission:
