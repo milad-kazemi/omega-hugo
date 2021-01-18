@@ -21,6 +21,24 @@ vision:
   enable: false
   section: Workshop Topics
   vision_item:
+  - title: verification for specific domains of autonomy (e.g., automotive)
+    image: ''
+    content: ''
+  - title: online monitoring for ARS
+    image: ''
+    content: ''
+  - title: modelling of ARS-human interaction
+    image: ''
+    content: ''
+  - title: verification of learning
+    image: ''
+    content: ''
+  - title: inductive and SMT-based techniques in ARS verification
+    image: ''
+    content: ''
+  - title: verification for robotics
+    image: ''
+    content: ''
   - title: machine learning approaches to ARS verification
     image: ''
     content: ''
