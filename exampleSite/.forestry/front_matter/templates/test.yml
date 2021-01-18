@@ -27,7 +27,7 @@ fields:
       label: name
     - type: text
       name: Affiliation
-      label: location
+      label: Affiliation
     - type: textarea
       name: about
       label: about
