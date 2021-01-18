@@ -1,6 +1,6 @@
 ---
 title: Career
-layout: career
+layout: temp_career
 description: Do what you enjoy, invest for your future and reap the benefits of working
   with the worlds first advancement company that puts people first.
 about:
