@@ -21,6 +21,9 @@ vision:
   enable: false
   section: Workshop Topics
   vision_item:
+  - title: verification of automated planning
+    image: ''
+    content: ''
   - title: specification, synthesis and verification of robust ARS
     image: ''
     content: ''
