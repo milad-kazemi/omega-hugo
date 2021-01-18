@@ -4,10 +4,6 @@ banner:
   title: VARS2021
   content: '2021 CPS-IoT Week Workshop: Verification of Autonomous & Robotic Systems'
   image: images/hero-image/hero-slider-01.jpg
-  button:
-    enable: false
-    label: WHAT WE DO
-    link: "#products"
 mission:
   enable: true
   title: Scope
@@ -18,12 +14,6 @@ mission:
 
 
     The aim of this workshop is to gather researchers from the verification, planning, robotics and cyber-physical systems communities in order to present and discuss their results, work in progress, challenges on the verification of autonomous and robotic systems.
-  video_thumb: ''
-  video_id: ''
-vision:
-  enable: false
-  section: W
-  vision_item: []
 product:
   enable: true
   section: Topics
@@ -56,9 +46,3 @@ contact:
   title: reach us
   image: images/Urban_Sciences_Building_construction.jpg
   content: ''
-call_to_action:
-  enable: false
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
-  button_label: Apply Now
-  button_link: career
