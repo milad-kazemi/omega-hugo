@@ -5,6 +5,11 @@ title = "VARS2021"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+URL = "speakers"
+name = "Speakers"
+pre = ""
+weight = "4"
+[[menu.main]]
 URL = "mission"
 name = "About"
 pre = "#"
