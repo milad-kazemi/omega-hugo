@@ -37,4 +37,4 @@ fields:
     - type: list
       name: experiences
       label: experiences
-    hidden: true
+    hidden: false
