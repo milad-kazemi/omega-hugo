@@ -31,11 +31,11 @@ form_action = "#"
 location = "Sibley School of Mechanical and Aerospace Engineering, Cornell University, USA"
 name = "Hadas Kress-Gazit"
 [[career.job_item]]
-about = "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
-experiences = ["3+ years Development\texperience in a startup environment", "Strong knowledge of iOS, Android & Web Platforms", "Dynamic presentation and communication skills", "Self-motivation: You manage your own milestones, deadlines, and priorities"]
+about = "Sadegh Soudjani is a Lecturer (Assistant Professor) in the School of Computing. Previously, he was a postdoctoral researcher at the University of\nOxford, United Kingdom, and at the Max Planck Institute, Germany. He obtained his PhD from Delft University of Technology, The Netherlands.\nSadegh’s main research interest is automated formal verification and synthesis of stochastic CPS uing efficient abstraction-based techniques."
+experiences = []
 form_action = "#"
-location = "Hamburg, Germany"
-name = "International Compliance Officer"
+location = "School of Computing, Newcastle University, UK"
+name = "Sadegh Soudjani"
 [funfacts]
 enable = true
 title = "amenities for you to enjoy"
