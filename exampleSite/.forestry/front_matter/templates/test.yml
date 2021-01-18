@@ -39,4 +39,5 @@ fields:
       label: experiences
     hidden: false
 pages:
+- exampleSite/content/career.md
 - exampleSite/content/speakers.md
