@@ -19,20 +19,11 @@ mission:
   video_id: ResipmZmpDU
 vision:
   enable: false
-  section: VISION
+  section: Workshop Topics
   vision_item:
-  - title: People First
-    image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
-  - title: Employee Culture
-    image: images/vision/vision-02.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
-  - title: The Omega Way
-    image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+  - title: verification for Artificial Intelligence/Machine Learning techniques
+    image: ''
+    content: ''
 product:
   enable: false
   section: Products
@@ -63,7 +54,7 @@ contact:
   image: images/Urban_Sciences_Building_construction.jpg
   content: ''
 call_to_action:
-  enable: true
+  enable: false
   title: Join the Omega family. <br>Click below to view the career opportunities we
     have for you.
   button_label: Apply Now
