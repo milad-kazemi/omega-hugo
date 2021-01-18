@@ -9,7 +9,7 @@ banner:
     label: WHAT WE DO
     link: "#products"
 mission:
-  enable: false
+  enable: true
   title: Scope
   section: About
   content: |2-
@@ -21,41 +21,11 @@ mission:
   video_thumb: ''
   video_id: ''
 vision:
-  enable: false
-  section: Workshop Topics
-  vision_item:
-  - title: verification for specific domains of autonomy (e.g., automotive)
-    image: ''
-    content: ''
-  - title: online monitoring for ARS
-    image: ''
-    content: ''
-  - title: modelling of ARS-human interaction
-    image: ''
-    content: ''
-  - title: verification of learning
-    image: ''
-    content: ''
-  - title: inductive and SMT-based techniques in ARS verification
-    image: ''
-    content: ''
-  - title: verification for robotics
-    image: ''
-    content: ''
-  - title: machine learning approaches to ARS verification
-    image: ''
-    content: ''
-  - title: verification of automated planning
-    image: ''
-    content: ''
-  - title: specification, synthesis and verification of robust ARS
-    image: ''
-    content: ''
-  - title: verification for Artificial Intelligence/Machine Learning techniques
-    image: ''
-    content: ''
+  enable: true
+  section: W
+  vision_item: []
 product:
-  enable: false
+  enable: true
   section: Topics
   title: Workshop topics
   content: |2-
