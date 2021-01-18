@@ -34,4 +34,6 @@ fields:
     hidden: false
 pages:
 - exampleSite/content/career.md
+- exampleSite/content/career.md
+- exampleSite/content/speakers.md
 - exampleSite/content/speakers.md
