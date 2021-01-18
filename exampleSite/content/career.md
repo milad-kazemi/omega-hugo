@@ -16,11 +16,11 @@ gallery:
   - images/gallery/gallery-02.png
   - images/gallery/gallery-03.png
 funfacts:
-  enable: false
+  enable: true
   title: amenities for you to enjoy
   funfacts_item:
-  - name: Flexible hours
-    icon: fa-bicycle
+  - name: images/gallery/gallery-02.png
+    image: fa-bicycle
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
   - name: Free Snacks
@@ -36,7 +36,7 @@ funfacts:
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
 career:
-  enable: true
+  enable: false
   title: Job Opening
   job_item:
   - name: Android Developer
