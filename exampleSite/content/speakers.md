@@ -25,11 +25,11 @@ form_action = "#"
 location = "Department of Computer Science, University of Manchester, UK"
 name = "Michael Fisher"
 [[career.job_item]]
-about = "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
-experiences = ["3+ years Development\texperience in a startup environment", "Strong knowledge of iOS, Android & Web Platforms", "Dynamic presentation and communication skills", "Self-motivation: You manage your own milestones, deadlines, and priorities"]
+about = "Hadas Kress-Gazit is an Associate Professor at the Sibley School of Mechanical and Aerospace Engineering. She received her Ph.D. from the University of Pennsylvania in 2008 and has been at Cornell since 2009. Her research focuses on creating verifiable robot controllers for complex high-level tasks using logic, verification, synthesis, hybrid systems theory and computational linguistics. She received an NSF CAREER award in 2010, a DARPA Young Faculty Award in 2012 and the Fiona Ip Li ’78 and Donald Li ’75 Excellence in teaching award in 2013."
+experiences = []
 form_action = "#"
-location = "Hamburg, Germany"
-name = "Operations Manager"
+location = "Sibley School of Mechanical and Aerospace Engineering, Cornell University, USA"
+name = "Hadas Kress-Gazit"
 [[career.job_item]]
 about = "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
 experiences = ["3+ years Development\texperience in a startup environment", "Strong knowledge of iOS, Android & Web Platforms", "Dynamic presentation and communication skills", "Self-motivation: You manage your own milestones, deadlines, and priorities"]
