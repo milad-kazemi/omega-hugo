@@ -18,7 +18,7 @@ mission:
   video_thumb: images/video-thumb.jpg
   video_id: ResipmZmpDU
 vision:
-  enable: false
+  enable: true
   section: Workshop Topics
   vision_item:
   - title: verification for specific domains of autonomy (e.g., automotive)
