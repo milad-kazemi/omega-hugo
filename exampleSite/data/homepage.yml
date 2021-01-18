@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: VARS2021
-  content: 'Verification of Autonomous & Robotic Systems '
+  content: '2021 CPS-IoT Week Workshop: Verification of Autonomous & Robotic Systems'
   image: images/hero-image/hero-slider-01.jpg
   button:
     enable: false
