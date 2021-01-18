@@ -1,6 +1,6 @@
 +++
 description = ""
-layout = "test"
+layout = "career"
 title = "Organizers"
 [about]
 content = "Bright, educated and hard working individuals who put professionalism first."
