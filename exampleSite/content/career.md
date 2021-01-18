@@ -95,6 +95,5 @@ career:
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
     Affiliation: ''
-draft: true
 
 ---
