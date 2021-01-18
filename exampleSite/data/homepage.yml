@@ -14,7 +14,6 @@ mission:
   section: Workshop Topics
   content: |2-
 
-
     • verification for Artificial Intelligence/Machine Learning techniques
 
     • specification, synthesis and verification of robust ARS
@@ -35,7 +34,7 @@ mission:
 
     • verification for specific domains of autonomy (e.g., automotive)
   video_thumb: ''
-  video_id: ''
+  video_id: https://www.youtube.com/watch?v=2-CE2J-d4gA
 vision:
   enable: false
   section: Workshop Topics
