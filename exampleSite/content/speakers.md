@@ -16,13 +16,14 @@ gallery:
   - images/gallery/gallery-02.png
   - images/gallery/gallery-03.png
 funfacts:
-  enable: false
+  enable: true
   title: amenities for you to enjoy
   funfacts_item:
   - name: Flexible hours
-    icon: fa-bicycle
+    icon: ''
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
+    image: images/gallery/gallery-01.png
   - name: Free Snacks
     icon: fa-bell-o
     content: Tight schedule, tell us so we can tailor the schedule that fits your
