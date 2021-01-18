@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 layout = "Organizers"
 title = "Organizers"
 [about]
