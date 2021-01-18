@@ -21,6 +21,9 @@ vision:
   enable: false
   section: Workshop Topics
   vision_item:
+  - title: specification, synthesis and verification of robust ARS
+    image: ''
+    content: ''
   - title: verification for Artificial Intelligence/Machine Learning techniques
     image: ''
     content: ''
