@@ -1,5 +1,5 @@
 ---
-label: Milad
+label: miladtemp
 hide_body: true
 fields:
 - type: text
@@ -30,6 +30,11 @@ fields:
   - type: text
     name: video_id
     label: video_id
+  - name: milad_image
+    type: file
+    config:
+      maxSize: 64
+    label: milad_image
 - type: field_group
   name: gallery
   label: gallery
