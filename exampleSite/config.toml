@@ -16,12 +16,12 @@ pre = "#"
 weight = 1
 [[menu.main]]
 URL = "products"
-name = "Products"
+name = "Topics"
 pre = "#"
 weight = 2
 [[menu.main]]
 URL = "career"
-name = "Career"
+name = "Organizers"
 pre = ""
 weight = 3
 [[menu.main]]
