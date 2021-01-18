@@ -21,6 +21,9 @@ vision:
   enable: false
   section: Workshop Topics
   vision_item:
+  - title: machine learning approaches to ARS verification
+    image: ''
+    content: ''
   - title: verification of automated planning
     image: ''
     content: ''
