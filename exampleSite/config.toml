@@ -20,7 +20,7 @@ name = "Topics"
 pre = "#"
 weight = 2
 [[menu.main]]
-URL = "career"
+URL = "Organizers"
 name = "Organizers"
 pre = ""
 weight = 3
