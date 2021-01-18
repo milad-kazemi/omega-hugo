@@ -32,5 +32,3 @@ fields:
       maxSize: 64
     label: image
     default: "/images/video-thumb.jpg"
-pages:
-- exampleSite/content/career.md
