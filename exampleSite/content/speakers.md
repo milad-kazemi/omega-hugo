@@ -13,11 +13,11 @@ video_thumb = "images/promo-video-thumbnail.jpg"
 enable = true
 title = "Job Opening"
 [[career.job_item]]
-about = "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
-experiences = ["3+ years Development\texperience in a startup environment", "Strong knowledge of iOS, Android & Web Platforms", "Dynamic presentation and communication skills", "Self-motivation: You manage your own milestones, deadlines, and priorities"]
+about = "Sergiy is a Senior Lecturer (Associate Professor) in the School of Computing. Previously, he was on the faculty of Australian National University, and\nwas a postdoctoral researcher at the Institute of Science and Technology Austria. His Ph.D. and M.Sc. are from the University of Freiburg, Germany.\nSergiy is interested in developing scalable solutions for automatic analysis of cyber-physical systems using verification, control and AI techniques."
+experiences = []
 form_action = "#"
-location = "Hamburg, Germany"
-name = "Android Developer"
+location = "School of Computing, Newcastle University, UK"
+name = "Sergiy Bogomolov (General Chair)"
 [[career.job_item]]
 about = "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
 experiences = ["3+ years Development\texperience in a startup environment", "Strong knowledge of iOS, Android & Web Platforms", "Dynamic presentation and communication skills", "Self-motivation: You manage your own milestones, deadlines, and priorities"]

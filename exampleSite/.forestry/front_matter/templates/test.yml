@@ -38,3 +38,5 @@ fields:
       name: experiences
       label: experiences
     hidden: false
+pages:
+- exampleSite/content/speakers.md
