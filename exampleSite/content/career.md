@@ -1,14 +1,16 @@
 ---
 title: Career
-layout: career
+layout: temp_career
 description: Do what you enjoy, invest for your future and reap the benefits of working
   with the worlds first advancement company that puts people first.
 about:
   enable: false
-  title: Who we're looking for
-  content: Bright, educated and hard working individuals who put professionalism first.
+  title: Milad Kazemi
+  content: Newcastle uni
   video_thumb: images/promo-video-thumbnail.jpg
   video_id: g3-VxLQO7do
+  image:
+  - "/images/section-bg.jpg"
 gallery:
   enable: false
   images:
