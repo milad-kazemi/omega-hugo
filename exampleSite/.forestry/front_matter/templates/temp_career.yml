@@ -33,5 +33,4 @@ fields:
     label: image
     default: "/images/video-thumb.jpg"
 pages:
-- exampleSite/content/organizers.md
 - exampleSite/content/speakers.md
