@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 layout = "career"
 title = "Speakers"
 [about]
