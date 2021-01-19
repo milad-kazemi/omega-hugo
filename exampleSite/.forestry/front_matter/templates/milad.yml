@@ -100,5 +100,3 @@ fields:
     - type: text
       name: Affiliation
       label: Affiliation
-pages:
-- exampleSite/content/career.md
