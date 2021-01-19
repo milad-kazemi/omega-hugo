@@ -9,6 +9,8 @@ about:
   enable : true
   title : "Who we're looking for"
   content : "Bright, educated and hard working individuals who put professionalism first."
+  images:
+  - "images/gallery/gallery-01.png"
   video_thumb : "images/promo-video-thumbnail.jpg"
   video_id : "g3-VxLQO7do"
 
