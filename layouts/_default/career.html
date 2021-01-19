@@ -19,19 +19,16 @@
 						<p>{{ .content | markdownify }}</p>
 					</div>
 					<!-- Promo Video -->
-					<div class="container-fluid p-0">
-						<div class="row no-gutters">
-						{{ range .images }}
-							<div class="col-md-4">
-								<div class="image image-reveal">
-									<img data-fancybox="gallery" href="{{ . |absURL }}" class="img-fluid"
-									src="{{ . |absURL }}" alt="">
-								</div>
-							</div>
-						{{ end }}
+					<div class="video image-reveal">
+						<!-- Video Thumb -->
+						<img class="img-fluid shadow" src="{{ .video_thumb | absURL }}" alt="video-thumbnail">
+						<!-- Video Button -->
+						<div class="video-button video-box">
+							<a href="javascript:void(0)">
+								<i class="fa fa-play" data-video="https://www.youtube.com/embed/{{.video_id}}?autoplay=1"></i>
+							</a>
 						</div>
 					</div>
-					
 				</div>
 			</div>
 		</div>
